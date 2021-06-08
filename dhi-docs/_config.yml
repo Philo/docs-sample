@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: DHI Exchange Platform provided by Lenus Health
+description: Developer documentation
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  

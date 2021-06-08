@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: Lenus Health Platform
+description: Developer documentation for the Lenus Health platform
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  
